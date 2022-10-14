@@ -151,6 +151,9 @@ button.navbar-toggler .icon-close {
 .navbar-toggler .icon-close{
     display: block;
 }
+.text__down{
+    order: 2;
+}
 @media (max-width: 980px){
     .nav-item:hover::after{
        width: 0;
