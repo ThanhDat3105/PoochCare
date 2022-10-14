@@ -1596,7 +1596,7 @@ textarea:focus {
 .dark .address__contact h3{
     color: #ddd;
 }
-.dark .address__top .address__left input:focus, textarea:focus{
+.dark .address__top .address__left input:focus, .dark textarea:focus{
     background: #151515 ;
 }
 .dark .address__top .address__left input,.dark textarea{
